@@ -1,9 +1,9 @@
 
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 
-import HomePage from './componets/HomePage'
-import AboutUsPage from './componets/AboutUsPage'
-import ContactPage from './componets/ContactPage'
+import HomePage from './pages/HomePage'
+import AboutUsPage from './pages/AboutUsPage'
+import ContactPage from './pages/ContactPage'
 
 function App() {
   return (
